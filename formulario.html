@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+
+<style>
+   label{
+    display: inline-block;
+    width: 80px;
+   }
+   input, select{
+    margin-top: 10px;
+   }
+
+</style>    
+</head>
+<body>
+    <h1>Informações Pessoais</h1>
+    <form>
+        <fieldset>
+            <legend>Cadastro do Cliente</legend>
+            <label>Nome: </label><input type="text" name="nome" placeholder="nome">
+            <br>
+            <label>Sexo: </label>
+            <input type="radio" name="sexo" value="masculino" >
+            <label for="masculino">Masculino</label>
+            <input type="radio" name="sexo" value="feminino">
+            <label for="feminino">Feminino</label>
+            <br>
+            <label>Idade:</label><input type="number" name="idade" style="width: 50px;">
+            <br>
+            <label>Endereço:</label><input type="text" name="endereco" placeholder="Digite o Endereço" style="width: 600px">
+            <br>
+            <label>Cidade:</label><input type="text" name="cidade" placeholder="Digite a Cidade" style="width: 340px">
+            <br>
+            <label>Estado:</label>
+            <select name="estado">
+                <option>UF</option>
+                <option value="PA">PA</option>
+                <option value="MA">MA</option>
+                <option value="MG">MG</option>
+            </select>
+            <br>
+            <label>CEP:</label><input type="number" name="cep" placeholder="XXXXX-XXX" style="width: 90px">
+            <br>
+            <label>Tel/Res:</label><input type="cel" name="tel-res" placeholder="(99) 99999-9999" style="width: 120px">
+            <br>
+            <label>Tel/Cel:</label><input type="cel" name="tel-cel" placeholder="(99) 99999-9999" style="width: 120px">
+            <br>
+            <label>Email:</label><input type="mail" name="email" placeholder="Digite o endereço de email" style="width: 360px">
+
+
+        </fieldset>
+    </form>
+</body>
+</html>
