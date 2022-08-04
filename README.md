@@ -16,4 +16,6 @@ ATIVIDADE 01
 
 ATIVIDADE 02
 
-[questões Seletores](https://codec21.github.io/web-I/atividade-02/atividadeSeletores.html)
+[Link GitHub](https://github.com/codec21/web-I/tree/main/atividade-02)
+
+[Questões Seletores](https://codec21.github.io/web-I/atividade-02/atividadeSeletores.html)
