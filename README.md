@@ -13,3 +13,7 @@ ATIVIDADE 01
 [Barbearia](https://codec21.github.io/web-I/atividade-01/barbearia/home.html)
 
 [Mini Wiki](https://codec21.github.io/web-I/atividade-01/mini-ziki-zap/MiniWiki.html)
+
+ATIVIDADE 02
+
+[questões Seletores](https://codec21.github.io/web-I/atividade-02/atividadeSeletores.html)
