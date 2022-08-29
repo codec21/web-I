@@ -25,3 +25,11 @@ ATIVIDADE 03
 [Link GitHub](https://github.com/codec21/web-I/tree/main/atividade-03)
 
 [Página Tributo](https://codec21.github.io/web-I/atividade-03/index.html)
+
+ATIVIDADE 04
+
+[Link GitHub](https://github.com/codec21/web-I/tree/main/atividade-04)
+
+[Página Loja](https://codec21.github.io/web-I/atividade-04/Loja/exercicio.html)
+
+[Página Pizzaria](https://codec21.github.io/web-I/atividade-04/Pizzaria/exercicio.html)
