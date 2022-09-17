@@ -33,3 +33,9 @@ ATIVIDADE 04
 [Página Loja](https://codec21.github.io/web-I/atividade-04/Loja/exercicio.html)
 
 [Página Pizzaria](https://codec21.github.io/web-I/atividade-04/Pizzaria/exercicio.html)
+
+ATIVIDADE 09
+
+[Link GitHub](https://github.com/codec21/web-I/tree/main/atividade-09)
+
+[Página Game Store](https://codec21.github.io/web-I/atividade-09/index.html)
