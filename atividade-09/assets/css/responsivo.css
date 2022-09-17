@@ -1,0 +1,6 @@
+@media screen and (min-width:992px) {
+    .populares__card {
+        margin-bottom: 0;
+        width: calc(20% - 1rem);
+    }
+}
