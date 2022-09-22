@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Questão 06</title>
+</head>
+<body>
+
+
+<script type="text/javascript">
+	const total_eleitores = Number(prompt("informe o numero de eleitores: "))
+	const votos_brancos = Number(prompt("informe o numero de votos brancos: "))
+	const votos_nulos = Number(prompt("informe o numero de votos nulos: "))
+	const votos_validos = Number(prompt("informe o numero de votos validos: "))
+	const abstencao = total_eleitores-(votos_validos+votos_nulos+votos_brancos)
+
+	alert('votos brancos ' + total_eleitores*(votos_brancos/100) + '%\n votos nulos ' + total_eleitores*(votos_nulos/100) + '%\n votos validos ' + total_eleitores*(votos_validos/100) + '%\n abstenções ' + total_eleitores*(abstencao/100) + '%')
+</script>
+
+</body>
+</html>
