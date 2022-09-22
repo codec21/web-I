@@ -39,3 +39,17 @@ ATIVIDADE 09
 [Link GitHub](https://github.com/codec21/web-I/tree/main/atividade-09)
 
 [Página Game Store](https://codec21.github.io/web-I/atividade-09/index.html)
+
+ATIVIDADE 10
+
+[Link GitHub](https://github.com/codec21/web-I/tree/main/atividade-10)
+
+[Questão 02](https://codec21.github.io/web-I/atividade-10/q02.html)
+
+[Questão 03](https://codec21.github.io/web-I/atividade-10/q03.html)
+
+[Questão 04](https://codec21.github.io/web-I/atividade-10/q04.html)
+
+[Questão 05](https://codec21.github.io/web-I/atividade-10/q05.html)
+
+[Questão 06](https://codec21.github.io/web-I/atividade-10/q06.html)
