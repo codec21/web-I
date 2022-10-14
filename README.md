@@ -58,7 +58,7 @@ ATIVIDADE 13
 
 [Link GitHub](https://github.com/codec21/web-I/tree/main/atividade-13)
 
-[Questão 02](https://codec21.github.io/web-I/atividade-13/q01.html)
+[Questão 01](https://codec21.github.io/web-I/atividade-13/q01.html)
 
 [Questão 02](https://codec21.github.io/web-I/atividade-13/q02.html)
 
