@@ -53,3 +53,19 @@ ATIVIDADE 10
 [Questão 05](https://codec21.github.io/web-I/atividade-10/q05.html)
 
 [Questão 06](https://codec21.github.io/web-I/atividade-10/q06.html)
+
+ATIVIDADE 13
+
+[Link GitHub](https://github.com/codec21/web-I/tree/main/atividade-13)
+
+[Questão 02](https://codec21.github.io/web-I/atividade-13/q01.html)
+
+[Questão 02](https://codec21.github.io/web-I/atividade-13/q02.html)
+
+[Questão 03](https://codec21.github.io/web-I/atividade-13/q03.html)
+
+[Questão 04](https://codec21.github.io/web-I/atividade-13/q04.html)
+
+[Questão 05](https://codec21.github.io/web-I/atividade-13/q05.html)
+
+[Questão 06](https://codec21.github.io/web-I/atividade-13/q06.html)
